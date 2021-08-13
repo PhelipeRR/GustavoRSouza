@@ -25,6 +25,7 @@
 
 ## ***Banco de Dados***
 ##### JDBC.
+##### JPA.
 ##### DBA Oracle.
 ##### SQL Server.
 ##### MySQL.
