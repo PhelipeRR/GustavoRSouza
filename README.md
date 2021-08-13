@@ -43,4 +43,4 @@
 ##### ***Não possuo experência profissional como desenvolvedor, que é meu grande objetivo atual, porém, tenho me dedicado bastante em aprender e colocar em prática todo o meu conhecimento que tenho adquirido até o momendo.***
 
 
-[Linkedin](https://www.linkedin.com/in/gustavordesouza/)
+[Linkedin](www.linkedin.com/in/gustavorodriguesdesouza)
